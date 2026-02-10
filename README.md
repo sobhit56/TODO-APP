@@ -24,5 +24,4 @@ This project helps users add, manage, and delete daily tasks easily.
 
 
 
-## 📂 Project Structure
 
